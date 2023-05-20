@@ -1,0 +1,132 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Ftrumpwallpapers.com%2Fspooky-wallpapers%2F&psig=AOvVaw2xi-eA0pi4NXIRID6vlqGS&ust=1684678177078000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOD-_7KJhP8CFQAAAAAdAAAAABAJ);
+    background-position: center;
+	font-family: Arial, sans-serif;
+	color: #ffffff;
+    height: 20%;
+}
+.banner{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 10%;
+	background-color: #101111;
+	color: #710404;
+	padding: 1%;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: left;
+    padding: 1%;
+    text-shadow: 1px 1px 1px red;
+    font-family: 'Creepster', cursive;
+    font-size: 2em
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+nav li {
+	margin-right: 1%;
+}
+
+nav a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+nav a:hover {
+	text-decoration: underline;
+}
+
+
+section {
+	max-width: 100%;
+    padding: 1.5%;
+}
+p{
+    color: #710404;
+    padding: 0.5%;
+    font-family: "Papyrus", fantasy;
+    font-weight: bold;
+}
+
+
+h2 {
+	font-size: 1.5em;
+	text-align: left;
+    color: aliceblue;
+    font-family: "Papyrus", fantasy;
+    font-weight: bold;
+}
+
+h3{
+    font-size: 1.3em;
+    color: #FFF;
+    font-family: "Papyrus", fantasy;
+    font-weight: bold;
+}
+
+ul {
+	list-style-type: circle;
+	margin: 0;
+	padding: 1%;
+    color: #710404;
+}
+
+li {
+	margin-bottom: 1%;
+    color: #710404;
+    font-family: "Papyrus", fantasy;
+    font-weight: bold;
+}
+
+blockquote{
+    font-family: "Papyrus", fantasy;
+    font-weight: bold;
+    color: #710404;
+}
+
+img {
+    display: block;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    padding: 0.5%;
+ }
+
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+h4{
+    font-size: 1em;
+    color: #710404;
+    font-family: "Papyrus", fantasy;
+    font-weight: bold;
+}
+
+.bosta{
+    float: left;
+}
+
+footer {
+	background-color: #101111;
+	color: #FFF;
+	padding: 1%;
+	text-align: center;
+}
