@@ -95,6 +95,8 @@ p{
     background-color: #000;
     padding: 2em;
     padding-top: 1em;
+    border-style: dashed;
+    border-color: white;
   }
 
   img{
