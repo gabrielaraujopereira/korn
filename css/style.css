@@ -110,6 +110,16 @@ p{
     display: block;
   }
 
+  .ladodir{
+    float: right;
+}
+
+.imgmeio{
+    width: 40%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+
   section {
     padding: 2em;
     margin-bottom: 2em;
