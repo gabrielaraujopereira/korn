@@ -48,7 +48,7 @@ h4{
 
 p{
     color: aliceblue;
-    padding: 0.5em;
+    padding: 1em;
     font-family: Arial, Helvetica, sans-serif;
     text-indent: 1em;
     text-align: left;
@@ -71,7 +71,7 @@ p{
   }
 
   a:hover{
-    text-decoration: ;
+    
     background-color: #DCDCDC;
     color: #000;
   }
